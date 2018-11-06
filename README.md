@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw09-late_for_class.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw09-late_for_class)
 
 # PHYS220/MATH220/CPSC220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Abby Wheaton and Frank Entriken**
 
 ## Specification
 
@@ -42,4 +42,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Abby Wheaton and Frank Entriken**
